@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ReservaRestaurantesActivity!</string>
+    <string name="app_name">ReservaRestaurantes</string>
+    <string name="introduzca_restaurante">Introduzca restaurante</string>
+    <string name="restaurante_">Restaurante:</string>
+    <string name="direcci_n_">Dirección:</string>
+    <string name="introduzca_telefono">Introduzca telefono</string>
+    <string name="tipo_comida_">Tipo comida:</string>
+    <string name="tradicional">Tradicional</string>
+    <string name="internacional">Internacional</string>
+    <string name="fast_food">Fast-food</string>
+    <string name="telefono_">Telefono:</string>
+    <string name="introduzca_direcci_n">Introduzca dirección</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lista_vacia_">Lista vacia.</string>
+
+</resources>
